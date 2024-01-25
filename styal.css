@@ -1,0 +1,16 @@
+body {
+    background: rgba(58, 58, 255, 0.76);
+    margin: 50px;
+    font-size: 99px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #55f018;
+    line-height: 120px;
+  }
+  
+  div {
+    text-align: left;
+    padding: 10px 20px;
+    margin: 0;
+  }
+  
